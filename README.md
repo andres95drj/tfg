@@ -13,4 +13,6 @@ predecir1.py -> carga el modelo de entrenar1.py y predice la clase a la que pert
 
 convertir.py -> recoge el modelo obtenido de entrenar.py y lo convierte en .tflite
 
+vgg16.py -> al ejecutarse se obtiene "weights_top_model" que se usa en entrenar1.py
+
 Las fotos sueltas son las que utilizo de prueba para predecir.
